@@ -1,1 +1,4 @@
-# project_Paid_Potential_Customer
+# project-Predict-paidCustomers
+
+App can be tried at 
+https://ml-predict.herokuapp.com/
